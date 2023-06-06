@@ -5,7 +5,7 @@
 Este é um projeto de estudo, para auxiliar no desenvolvimento de aplicações web utilizando NextJs. Trata-se de uma To-do List, onde o usuário pode inserir novas atividades.
 
 ## 🔗Link de Acesso
-- Deploy Vercel: Em Breve
+- Deploy Vercel: [clique aqui!](https://todolist-nextjs-nine.vercel.app/)
 
 ## 👥Equipe
 | [<img src="https://avatars.githubusercontent.com/u/111311678?v=4" width=115><br><sub>Daniel Emidio</sub>](https://github.com/DanielEmidio1988) |
